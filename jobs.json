@@ -1,5 +1,40 @@
 [
   {
+    "dedupeKey": "job:effe441d-3996-4d1f-a5e5-37e85cd3dc2c",
+    "companyId": "company_c9cdffe855fbf98ef02dc07d9646ea98",
+    "company": "Glean",
+    "companyDomain": "glean.com",
+    "role": "Software Engineer, University Grad",
+    "applyUrl": "https://go.landed.jobs/caypvk7",
+    "location": "Mountain View, CA",
+    "locations": [
+      "Mountain View, CA"
+    ],
+    "remote": "hybrid",
+    "region": "us",
+    "family": "software_engineering",
+    "level": "entry",
+    "skills": [
+      "Go",
+      "Python",
+      "Java",
+      "Javascript",
+      "C++",
+      "distributed systems",
+      "cloud-native applications",
+      "ML models",
+      "NLP",
+      "recommendation systems",
+      "applied machine learning"
+    ],
+    "posted": "2026-10-28T17:22:26.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Hot 200",
+      "$7.2B valuation"
+    ]
+  },
+  {
     "dedupeKey": "job:84c11fb8-72a4-44ec-9566-6cca4503d050",
     "companyId": "company_6cd957379a1b5ae0fdd1bfa0636841b4",
     "company": "Together AI",
@@ -24,43 +59,6 @@
     "companyBadges": [
       "TrueUp Hot 200",
       "$8.3B valuation"
-    ]
-  },
-  {
-    "dedupeKey": "job:4756963d-bdc8-4c93-9af9-0342130e942c",
-    "companyId": "company_836ffd48c7b0e62aeefda44a2ffcbb1c",
-    "company": "Anduril Industries",
-    "companyDomain": "anduril.com",
-    "role": "Early Career Software Engineer, Battlespace Awareness",
-    "applyUrl": "https://go.landed.jobs/77udmb1",
-    "location": "Broomfield, CO · Fort Collins, CO",
-    "locations": [
-      "Broomfield, CO",
-      "Fort Collins, CO"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "software_engineering",
-    "level": "entry",
-    "skills": [
-      "C++",
-      "Python",
-      "linear algebra",
-      "probability",
-      "statistics",
-      "differential equations",
-      "design patterns",
-      "testing",
-      "version control",
-      "debugging",
-      "Kalman filters",
-      "particle filters"
-    ],
-    "posted": "2026-10-26T19:34:27.000Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Hot 200",
-      "$61B valuation"
     ]
   },
   {
@@ -170,35 +168,6 @@
     ]
   },
   {
-    "dedupeKey": "job:ad090d6f-1c50-45e9-bbe8-df5874060ce8",
-    "companyId": "company_203dd412c0f10c21e81c3aca3e7b791a",
-    "company": "1Password",
-    "companyDomain": "1password.com",
-    "role": "Junior Security Engineer",
-    "applyUrl": "https://go.landed.jobs/pkval0r",
-    "location": "🌐 Remote (Canada, US)",
-    "locations": [
-      "US",
-      "Canada"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "security",
-    "level": "entry",
-    "skills": [
-      "agentic AI",
-      "Rust",
-      "Golang",
-      "OWASP Top 10"
-    ],
-    "posted": "2026-10-20T15:33:39.663Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Security 50",
-      "$6.8B valuation"
-    ]
-  },
-  {
     "dedupeKey": "job:8c39f3d6-668c-4599-821c-78f7448b2f93",
     "companyId": "company_733f99689ce000d9eeef93cdadfc6b1e",
     "company": "Palantir Technologies",
@@ -259,6 +228,33 @@
     "companyBadges": [
       "TrueUp Hot 200",
       "$8.3B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:0386aa03-883a-439b-99c0-edd50bb07f89",
+    "companyId": "company_203dd412c0f10c21e81c3aca3e7b791a",
+    "company": "1Password",
+    "companyDomain": "1password.com",
+    "role": "Junior Developer",
+    "applyUrl": "https://go.landed.jobs/viq3sdh",
+    "location": "🌐 Remote (Canada, US)",
+    "locations": [
+      "US",
+      "Canada"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "software_engineering",
+    "level": "entry",
+    "skills": [
+      "Rust",
+      "Golang"
+    ],
+    "posted": "2026-10-15T19:57:41.748Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Security 50",
+      "$6.8B valuation"
     ]
   },
   {
@@ -775,53 +771,106 @@
     ]
   },
   {
-    "dedupeKey": "job:1158a5c9-df17-40aa-8426-ed95a9c3a67a",
-    "companyId": "company_cf0f4f756728eba78dd85d7cf3358e9d",
-    "company": "Perplexity",
-    "companyDomain": "perplexity.ai",
-    "role": "Member of Technical Staff (New Grad)",
-    "applyUrl": "https://go.landed.jobs/jbsgee1",
-    "location": "San Francisco, CA",
+    "dedupeKey": "job:c65255ef-4ca3-424b-b711-6357ab5d9fcd",
+    "companyId": "company_bced043c394c9e8765d1a104e5c053de",
+    "company": "Accenture",
+    "companyDomain": "accenture.com",
+    "role": "Entry Level Technology Development Program - Summer Analyst - Canada - NAELFY27",
+    "applyUrl": "https://go.landed.jobs/knqxt5p",
+    "location": "Toronto, Canada +4",
     "locations": [
-      "San Francisco, CA"
+      "Toronto, Canada",
+      "Ottawa, Canada",
+      "Calgary, Canada",
+      "Regina, Canada",
+      "Montréal, Canada"
     ],
     "remote": "",
     "region": "us",
     "family": "software_engineering",
-    "level": "entry",
-    "skills": [],
-    "posted": "2026-09-29T04:20:59.099Z",
-    "companyTier": "A",
+    "level": "intern",
+    "skills": [
+      "Java",
+      "C/++",
+      "Python",
+      "Artificial Intelligence design",
+      "data systems / network design",
+      "GitHub",
+      "SourceForge",
+      "OT/ICS security",
+      "penetration testing",
+      "threat modeling",
+      "TypeScript",
+      "Node.js"
+    ],
+    "posted": "2026-10-29T00:00:00.000Z",
+    "companyTier": "B",
     "companyBadges": [
-      "TrueUp Hot 200",
-      "$18B valuation"
+      "$118B valuation",
+      "Public"
     ]
   },
   {
-    "dedupeKey": "job:bedecf70-290d-4159-8f17-7609884ab9ee",
-    "companyId": "company_f3ac1dcdf59a10a205d7f6ab1ec41254",
-    "company": "SpaceX",
-    "companyDomain": "spacex.com",
-    "role": "New Graduate Engineer, Software (Starfall)",
-    "applyUrl": "https://go.landed.jobs/b0ynow8",
-    "location": "Hawthorne, CA",
+    "dedupeKey": "job:466d852a-05c6-4f8d-8bc1-13cfbdb5b126",
+    "companyId": "company_afeaace04b48c29218ee873b4fecc677",
+    "company": "Booz Allen Hamilton",
+    "companyDomain": "boozallen.com",
+    "role": "Cybersecurity Analyst, Junior",
+    "applyUrl": "https://go.landed.jobs/lqeq8fp",
+    "location": "Rome, NY",
     "locations": [
-      "Hawthorne, CA"
+      "Rome, NY"
     ],
-    "remote": "",
+    "remote": "hybrid",
+    "region": "us",
+    "family": "security",
+    "level": "entry",
+    "skills": [
+      "cybersecurity or computer field, including supporting information assurance, networking, or systems administration",
+      "applying system security configurations to meet compliance standards",
+      "RMF A&A processes and Cybersecurity engineering",
+      "working with the Enterprise Mission Assurance Support Service (eMASS)",
+      "Cloud and DevSecOps"
+    ],
+    "posted": "2026-10-28T00:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:57b75414-7fa4-45c7-8198-6c1d1a4fb57c",
+    "companyId": "company_68da6a433ea16753ec5d20c4da218ccb",
+    "company": "Sonos",
+    "companyDomain": "sonos.com",
+    "role": "Junior CI/CD Engineer",
+    "applyUrl": "https://go.landed.jobs/gng37dq",
+    "location": "Boston, MA",
+    "locations": [
+      "Boston, MA"
+    ],
+    "remote": "hybrid",
     "region": "us",
     "family": "software_engineering",
     "level": "entry",
     "skills": [
+      "Git",
+      "Python",
+      "Java",
       "C++",
-      "C",
-      "microcontrollers"
+      "Jenkins",
+      "Artifactory",
+      "Datadog",
+      "Tableau",
+      "Snowflake",
+      "AWS",
+      "Bash"
     ],
-    "posted": "2026-09-29T01:09:01.000Z",
-    "companyTier": "A",
+    "posted": "2026-10-28T00:00:00.000Z",
+    "companyTier": "B",
     "companyBadges": [
-      "TrueUp Hardware 50",
-      "$1.4T valuation"
+      "$1.8B valuation",
+      "Public"
     ]
   },
   {
@@ -954,6 +1003,28 @@
     ]
   },
   {
+    "dedupeKey": "job:1316766c-9f69-4244-b00a-552483bfca85",
+    "companyId": "company_39f5584208c174b16a349b5e0d753a06",
+    "company": "Agave",
+    "companyDomain": "useagave.com",
+    "role": "Full-Stack Software Engineer (New Grad)",
+    "applyUrl": "https://go.landed.jobs/nrwypas",
+    "location": "San Francisco, CA",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "software_engineering",
+    "level": "",
+    "skills": [],
+    "posted": "2026-10-27T17:34:29.492Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "YC W22"
+    ]
+  },
+  {
     "dedupeKey": "job:c99f2d14-59b8-4942-9cad-930108632fe1",
     "companyId": "company_afeaace04b48c29218ee873b4fecc677",
     "company": "Booz Allen Hamilton",
@@ -1025,6 +1096,37 @@
     ]
   },
   {
+    "dedupeKey": "job:cc14bf2c-50ab-4773-b4d1-a044a6b7109b",
+    "companyId": "company_afeaace04b48c29218ee873b4fecc677",
+    "company": "Booz Allen Hamilton",
+    "companyDomain": "boozallen.com",
+    "role": "Full Stack Software Engineer, Junior",
+    "applyUrl": "https://go.landed.jobs/cqmdu2f",
+    "location": "McLean, VA",
+    "locations": [
+      "McLean, VA"
+    ],
+    "remote": "hybrid",
+    "region": "us",
+    "family": "software_engineering",
+    "level": "entry",
+    "skills": [
+      "Python",
+      "SQL",
+      "TypeScript",
+      "JavaScript",
+      "React",
+      "AWS",
+      "Azure",
+      "Docker"
+    ],
+    "posted": "2026-10-26T00:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "Public"
+    ]
+  },
+  {
     "dedupeKey": "job:db555e0a-6f8d-4bf2-9a7c-da29a9bf3539",
     "companyId": "company_203311887ecf7346617afa786c254c49",
     "company": "Addepar",
@@ -1051,29 +1153,34 @@
     ]
   },
   {
-    "dedupeKey": "job:91d6253a-3b2f-41d8-9451-06074dde5695",
-    "companyId": "company_1c981def6d6ed2f1d4b7e4f4f61350c2",
-    "company": "AECOM",
-    "companyDomain": "aecom.com",
-    "role": "Entry-Level Environmental Statistician",
-    "applyUrl": "https://go.landed.jobs/8rkq5nl",
-    "location": "Novi, MI",
+    "dedupeKey": "job:4dff960d-d114-4dbc-b6af-198249a2ffe9",
+    "companyId": "company_75bfd51f25521a9f6db5e5e8b6b0fc4b",
+    "company": "BAE Systems",
+    "companyDomain": "baesystems.com",
+    "role": "Entry Level Research & Development Engineer",
+    "applyUrl": "https://go.landed.jobs/1ecb2df",
+    "location": "Merrimack, NH",
     "locations": [
-      "Novi, MI"
+      "Merrimack, NH"
     ],
-    "remote": "hybrid",
+    "remote": "",
     "region": "us",
     "family": "research_science",
     "level": "entry",
     "skills": [
-      "environmental statistics",
-      "spatial statistics/geostatistics",
-      "sampling design",
-      "regression",
-      "multivariate analysis",
-      "time-series analysis"
+      "MATLAB",
+      "Python",
+      "C",
+      "C++",
+      "RF",
+      "algorithms",
+      "signal processing",
+      "artificial intelligence/machine learning (AI/ML)",
+      "reverse engineering",
+      "vulnerability research",
+      "exploit development"
     ],
-    "posted": "2026-10-23T13:34:38.083Z",
+    "posted": "2026-10-23T10:03:32.868Z",
     "companyTier": "B",
     "companyBadges": [
       "Public"
@@ -1153,6 +1260,31 @@
       "MATLAB Experience",
       "Development experience with Python",
       "General Purpose Graphical Processing Unit (GPU) OPENCL or CUDA development experience"
+    ],
+    "posted": "2026-10-23T10:03:32.661Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:31ddc90c-b87d-4ac5-bc4a-5500c5ee11e6",
+    "companyId": "company_75bfd51f25521a9f6db5e5e8b6b0fc4b",
+    "company": "BAE Systems",
+    "companyDomain": "baesystems.com",
+    "role": "Junior Developer",
+    "applyUrl": "https://go.landed.jobs/sr3t4kh",
+    "location": "McLean, VA",
+    "locations": [
+      "McLean, VA"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "security",
+    "level": "entry",
+    "skills": [
+      "Cybersecurity and Identity Control Frameworks (MCP) for Agentic Systems",
+      "cybersecurity"
     ],
     "posted": "2026-10-23T10:03:32.661Z",
     "companyTier": "B",
@@ -1292,61 +1424,6 @@
     ]
   },
   {
-    "dedupeKey": "job:f5da125e-dc31-4f72-a38e-794c2633fda2",
-    "companyId": "company_afeaace04b48c29218ee873b4fecc677",
-    "company": "Booz Allen Hamilton",
-    "companyDomain": "boozallen.com",
-    "role": "Software Developer, Junior",
-    "applyUrl": "https://go.landed.jobs/h8wbbxf",
-    "location": "Aberdeen Proving Ground, MD",
-    "locations": [
-      "Aberdeen Proving Ground, MD"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "software_engineering",
-    "level": "entry",
-    "skills": [
-      "Java",
-      "Rust"
-    ],
-    "posted": "2026-10-20T00:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:6cd25865-76b4-44f7-a9ea-953b35cc14c5",
-    "companyId": "company_1c981def6d6ed2f1d4b7e4f4f61350c2",
-    "company": "AECOM",
-    "companyDomain": "aecom.com",
-    "role": "Entry-Level Architecture Designer - Networking Event with AECOM – Boston, MA",
-    "applyUrl": "https://go.landed.jobs/gevloja",
-    "location": "Boston, MA",
-    "locations": [
-      "Boston, MA"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "design_research",
-    "level": "entry",
-    "skills": [
-      "Revit",
-      "Dynamo",
-      "Rhino",
-      "Grasshopper",
-      "Adobe",
-      "Autodesk",
-      "AI"
-    ],
-    "posted": "2026-10-19T19:49:30.470Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "Public"
-    ]
-  },
-  {
     "dedupeKey": "job:8c193385-24bd-4aad-af10-158717de9c56",
     "companyId": "company_9f29ebebf84d42208c59e34721042bf9",
     "company": "C3 AI",
@@ -1431,95 +1508,6 @@
     "companyTier": "B",
     "companyBadges": [
       "$74.2B valuation",
-      "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:4dff960d-d114-4dbc-b6af-198249a2ffe9",
-    "companyId": "company_75bfd51f25521a9f6db5e5e8b6b0fc4b",
-    "company": "BAE Systems",
-    "companyDomain": "baesystems.com",
-    "role": "Entry Level Research & Development Engineer",
-    "applyUrl": "https://go.landed.jobs/1ecb2df",
-    "location": "Merrimack, NH",
-    "locations": [
-      "Merrimack, NH"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "research_science",
-    "level": "entry",
-    "skills": [
-      "MATLAB",
-      "Python",
-      "C",
-      "C++",
-      "RF",
-      "algorithms",
-      "signal processing",
-      "artificial intelligence/machine learning (AI/ML)",
-      "reverse engineering",
-      "vulnerability research",
-      "exploit development"
-    ],
-    "posted": "2026-10-16T21:03:32.062Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:62e2dad3-6adc-47a3-a4be-d5deb2b0ddde",
-    "companyId": "company_afeaace04b48c29218ee873b4fecc677",
-    "company": "Booz Allen Hamilton",
-    "companyDomain": "boozallen.com",
-    "role": "ServiceNow Developer, Junior",
-    "applyUrl": "https://go.landed.jobs/el2w5bd",
-    "location": "McLean, VA",
-    "locations": [
-      "McLean, VA"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "software_engineering",
-    "level": "entry",
-    "skills": [
-      "JavaScript",
-      "Python",
-      "Java",
-      "C#",
-      "SQL",
-      "API",
-      "Agile methodologies"
-    ],
-    "posted": "2026-10-16T00:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:54c9c9c0-709a-4e24-bdac-68a86c2c38de",
-    "companyId": "company_75bfd51f25521a9f6db5e5e8b6b0fc4b",
-    "company": "BAE Systems",
-    "companyDomain": "baesystems.com",
-    "role": "Entry Level Software Engineer",
-    "applyUrl": "https://go.landed.jobs/a6k16l6",
-    "location": "Wayne, NJ",
-    "locations": [
-      "Wayne, NJ"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "software_engineering",
-    "level": "entry",
-    "skills": [
-      "Real-time embedded development",
-      "Artificial Intelligence (AI) as an aid to Software Development"
-    ],
-    "posted": "2026-10-14T16:04:12.802Z",
-    "companyTier": "B",
-    "companyBadges": [
       "Public"
     ]
   },
@@ -2212,6 +2200,90 @@
     ]
   },
   {
+    "dedupeKey": "job:98af10fa-8834-4938-8aef-60de3e8c1c0b",
+    "companyId": "company_3d6784304f11c79dc8d963e0cfb84db4",
+    "company": "Northwood Space",
+    "companyDomain": "northwoodspace.io",
+    "role": "Software Engineer, Platform (Early Career)",
+    "applyUrl": "https://go.landed.jobs/pqnx36n",
+    "location": "Torrance, CA",
+    "locations": [
+      "Torrance, CA"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "software_engineering",
+    "level": "entry",
+    "skills": [
+      "distributed systems"
+    ],
+    "posted": "2026-10-29T21:57:39.688Z",
+    "companyTier": "C",
+    "companyBadges": [
+      "Series B"
+    ]
+  },
+  {
+    "dedupeKey": "job:af60c822-072d-4366-8697-543f24c69a0b",
+    "companyId": "company_5e927ce3b3ff0e286dbfe5f7b03ee06f",
+    "company": "Valtech",
+    "companyDomain": "valtech.fr",
+    "role": "Jr. AI Native Experience Designer",
+    "applyUrl": "https://go.landed.jobs/ajau5xn",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "US"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "design_research",
+    "level": "entry",
+    "skills": [
+      "experience design",
+      "product design",
+      "interaction design",
+      "AI",
+      "prototyping",
+      "generative interfaces",
+      "voice",
+      "multimodal experiences",
+      "Figma",
+      "front-end code",
+      "human-centered design",
+      "AI-enabled development workflows"
+    ],
+    "posted": "2026-10-28T23:00:27.000Z",
+    "companyTier": "U",
+    "companyBadges": []
+  },
+  {
+    "dedupeKey": "job:d89d131a-ae1d-476a-a55a-e8d9abb5d497",
+    "companyId": "company_5e927ce3b3ff0e286dbfe5f7b03ee06f",
+    "company": "Valtech",
+    "companyDomain": "valtech.fr",
+    "role": "Jr. AI Native Engineer",
+    "applyUrl": "https://go.landed.jobs/boswqll",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "US"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "ai_machine_learning",
+    "level": "entry",
+    "skills": [
+      "large language models",
+      "Python",
+      "TypeScript",
+      "JavaScript",
+      "CI/CD",
+      "prompting"
+    ],
+    "posted": "2026-10-28T22:46:30.000Z",
+    "companyTier": "U",
+    "companyBadges": []
+  },
+  {
     "dedupeKey": "job:fc23bbe5-f026-4da8-a9a8-1cd20ded78e7",
     "companyId": "company_7b4a0eaa347d1ccb2820ee68f587e895",
     "company": "Vori Health",
@@ -2242,6 +2314,38 @@
     "companyBadges": [
       "Series B"
     ]
+  },
+  {
+    "dedupeKey": "job:34b29772-0d02-4259-b5a5-635128bef333",
+    "companyId": "company_42f162ca7bd930af19b3b06298a12ff7",
+    "company": "Priceline",
+    "companyDomain": "priceline.com",
+    "role": "Junior Software Engineer",
+    "applyUrl": "https://go.landed.jobs/z87jegy",
+    "location": "New York City, NY",
+    "locations": [
+      "New York City, NY"
+    ],
+    "remote": "hybrid",
+    "region": "us",
+    "family": "software_engineering",
+    "level": "entry",
+    "skills": [
+      "JavaScript",
+      "Typescript",
+      "React",
+      "Angular",
+      "Ember",
+      "Express.js",
+      "REST-ful APIs",
+      "GraphQL APIs",
+      "OOP",
+      "Flux/Redux",
+      "HTML and CSS"
+    ],
+    "posted": "2026-10-28T00:00:00.000Z",
+    "companyTier": "U",
+    "companyBadges": []
   },
   {
     "dedupeKey": "job:9eb39dfc-dc9b-4578-87af-ad8137de088a",
@@ -2294,32 +2398,6 @@
     "companyTier": "C",
     "companyBadges": [
       "Seed"
-    ]
-  },
-  {
-    "dedupeKey": "job:c38fdd9f-8a11-45db-a63a-726a9b4cf2d9",
-    "companyId": "company_c7f9b673780a2e3a28307ba111607991",
-    "company": "Ciena",
-    "companyDomain": "ciena.com",
-    "role": "Software Engineer (Security) - New Grad",
-    "applyUrl": "https://go.landed.jobs/1865fbr",
-    "location": "Atlanta, GA",
-    "locations": [
-      "Atlanta, GA"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "software_engineering",
-    "level": "entry",
-    "skills": [
-      "C/C++",
-      "Python",
-      "automated unit testing frameworks"
-    ],
-    "posted": "2026-10-26T00:00:00.000Z",
-    "companyTier": "C",
-    "companyBadges": [
-      "Public"
     ]
   },
   {
@@ -2546,31 +2624,6 @@
     ]
   },
   {
-    "dedupeKey": "job:1032def0-7ff0-4c6f-9944-0c2b9c5bdd5c",
-    "companyId": "company_02ffb1da0ebcf052de13ae9dcee9b21a",
-    "company": "AgileEngine",
-    "companyDomain": "agileengine.com",
-    "role": "Junior/Middle Computer Vision Engineer ID72410",
-    "applyUrl": "https://go.landed.jobs/8kmdes3",
-    "location": "Blacksburg, VA",
-    "locations": [
-      "Blacksburg, VA"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "ai_machine_learning",
-    "level": "entry",
-    "skills": [
-      "Python",
-      "machine learning",
-      "computer vision",
-      "cloud environments"
-    ],
-    "posted": "2026-10-14T00:00:00.000Z",
-    "companyTier": "U",
-    "companyBadges": []
-  },
-  {
     "dedupeKey": "job:10fbffef-fcab-4dc5-b57c-effe45316181",
     "companyId": "company_02ffb1da0ebcf052de13ae9dcee9b21a",
     "company": "AgileEngine",
@@ -2592,30 +2645,6 @@
       "cloud environments and compute resources",
       "image and video datasets",
       "model training and evaluation"
-    ],
-    "posted": "2026-10-14T00:00:00.000Z",
-    "companyTier": "U",
-    "companyBadges": []
-  },
-  {
-    "dedupeKey": "job:1990f94e-67e3-4e49-a7e4-1c584d160ac6",
-    "companyId": "company_02ffb1da0ebcf052de13ae9dcee9b21a",
-    "company": "AgileEngine",
-    "companyDomain": "agileengine.com",
-    "role": "Junior/Middle Computer Vision Engineer ID72410",
-    "applyUrl": "https://go.landed.jobs/szrpwvi",
-    "location": "Tampa, FL",
-    "locations": [
-      "Tampa, FL"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "ai_machine_learning",
-    "level": "mid",
-    "skills": [
-      "Python",
-      "computer vision principles (e.g., image processing, object detection basics)",
-      "cloud environments and compute resources"
     ],
     "posted": "2026-10-14T00:00:00.000Z",
     "companyTier": "U",
@@ -2652,15 +2681,15 @@
     ]
   },
   {
-    "dedupeKey": "job:330cd119-568b-49b1-80aa-50c09b44ba39",
+    "dedupeKey": "job:86bdf4ee-3891-4280-a07b-f298ad8aad9e",
     "companyId": "company_02ffb1da0ebcf052de13ae9dcee9b21a",
     "company": "AgileEngine",
     "companyDomain": "agileengine.com",
     "role": "Junior/Middle Computer Vision Engineer ID72410",
-    "applyUrl": "https://go.landed.jobs/5f1rzw4",
-    "location": "Tallahassee, FL",
+    "applyUrl": "https://go.landed.jobs/mrfkl1h",
+    "location": "Baltimore, MD",
     "locations": [
-      "Tallahassee, FL"
+      "Baltimore, MD"
     ],
     "remote": "",
     "region": "us",
@@ -2677,15 +2706,15 @@
     "companyBadges": []
   },
   {
-    "dedupeKey": "job:4927a62c-7d70-4bfc-a1e6-e847b20e0a05",
+    "dedupeKey": "job:b8b54c68-b15b-4f64-bcb6-d2d9a835ea00",
     "companyId": "company_02ffb1da0ebcf052de13ae9dcee9b21a",
     "company": "AgileEngine",
     "companyDomain": "agileengine.com",
     "role": "Junior/Middle Computer Vision Engineer ID72410",
-    "applyUrl": "https://go.landed.jobs/3h8sm2z",
-    "location": "Fort Lauderdale, FL",
+    "applyUrl": "https://go.landed.jobs/6y2s20x",
+    "location": "Austin, TX",
     "locations": [
-      "Fort Lauderdale, FL"
+      "Austin, TX"
     ],
     "remote": "",
     "region": "us",
@@ -2693,8 +2722,68 @@
     "level": "mid",
     "skills": [
       "Python",
-      "computer vision principles (e.g., image processing, object detection basics)",
-      "cloud environments and compute resources"
+      "machine learning",
+      "computer vision",
+      "image processing",
+      "cloud environments"
+    ],
+    "posted": "2026-10-14T00:00:00.000Z",
+    "companyTier": "U",
+    "companyBadges": []
+  },
+  {
+    "dedupeKey": "job:ca08847a-3890-4fd1-9c5c-4b2f065af957",
+    "companyId": "company_02ffb1da0ebcf052de13ae9dcee9b21a",
+    "company": "AgileEngine",
+    "companyDomain": "agileengine.com",
+    "role": "Junior/Middle Computer Vision Engineer ID72410",
+    "applyUrl": "https://go.landed.jobs/y7g1qap",
+    "location": "Boca Raton, FL",
+    "locations": [
+      "Boca Raton, FL"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "ai_machine_learning",
+    "level": "entry",
+    "skills": [
+      "Python",
+      "machine learning concepts and workflows",
+      "computer vision principles",
+      "image processing",
+      "object detection basics",
+      "cloud environments and compute resources",
+      "curate large-scale image and video datasets",
+      "manage labeling processes and workflows",
+      "model training and evaluation jobs",
+      "document training results",
+      "maintain ongoing evaluation benchmarks",
+      "track model performance over time"
+    ],
+    "posted": "2026-10-14T00:00:00.000Z",
+    "companyTier": "U",
+    "companyBadges": []
+  },
+  {
+    "dedupeKey": "job:d6090c27-8ba5-470f-91f5-d2ca9275b250",
+    "companyId": "company_02ffb1da0ebcf052de13ae9dcee9b21a",
+    "company": "AgileEngine",
+    "companyDomain": "agileengine.com",
+    "role": "Junior/Middle Computer Vision Engineer ID72410",
+    "applyUrl": "https://go.landed.jobs/jv8yrb8",
+    "location": "Miami, FL",
+    "locations": [
+      "Miami, FL"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "ai_machine_learning",
+    "level": "entry",
+    "skills": [
+      "Python",
+      "image processing",
+      "object detection",
+      "cloud environments"
     ],
     "posted": "2026-10-14T00:00:00.000Z",
     "companyTier": "U",
@@ -3305,6 +3394,56 @@
     "companyBadges": []
   },
   {
+    "dedupeKey": "job:1158a5c9-df17-40aa-8426-ed95a9c3a67a",
+    "companyId": "company_cf0f4f756728eba78dd85d7cf3358e9d",
+    "company": "Perplexity",
+    "companyDomain": "perplexity.ai",
+    "role": "Member of Technical Staff (New Grad)",
+    "applyUrl": "https://go.landed.jobs/jbsgee1",
+    "location": "San Francisco, CA",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "software_engineering",
+    "level": "entry",
+    "skills": [],
+    "posted": "2026-09-29T04:20:59.099Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Hot 200",
+      "$18B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:bedecf70-290d-4159-8f17-7609884ab9ee",
+    "companyId": "company_f3ac1dcdf59a10a205d7f6ab1ec41254",
+    "company": "SpaceX",
+    "companyDomain": "spacex.com",
+    "role": "New Graduate Engineer, Software (Starfall)",
+    "applyUrl": "https://go.landed.jobs/b0ynow8",
+    "location": "Hawthorne, CA",
+    "locations": [
+      "Hawthorne, CA"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "software_engineering",
+    "level": "entry",
+    "skills": [
+      "C++",
+      "C",
+      "microcontrollers"
+    ],
+    "posted": "2026-09-29T01:09:01.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Hardware 50",
+      "$1.4T valuation"
+    ]
+  },
+  {
     "dedupeKey": "job:97dbf6d8-c92c-452e-a14b-3442a33ff23a",
     "companyId": "company_ccbdf5324b3a0767c15a5aa5b4dbc8c9",
     "company": "Harbor",
@@ -3566,37 +3705,6 @@
     "companyBadges": [
       "$1.2B valuation",
       "Series E"
-    ]
-  },
-  {
-    "dedupeKey": "job:3f8ee149-575b-4e72-afb5-1515f7d49832",
-    "companyId": "company_a08dea32cb52916733ce2df68b3460b5",
-    "company": "webAI",
-    "companyDomain": "webai.com",
-    "role": "Jr DevOps Engineer",
-    "applyUrl": "https://go.landed.jobs/swaqsr5",
-    "location": "Austin, TX",
-    "locations": [
-      "Austin, TX"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "software_engineering",
-    "level": "entry",
-    "skills": [
-      "Terraform",
-      "Kubernetes",
-      "CI/CD pipelines",
-      "Prometheus",
-      "Docker",
-      "Python",
-      "Bash"
-    ],
-    "posted": "2026-09-23T20:20:28.958Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Future of Work 50",
-      "$2.5B valuation"
     ]
   },
   {
@@ -4065,9 +4173,10 @@
       "Postgres"
     ],
     "posted": "2026-09-18T06:13:06.459Z",
-    "companyTier": "C",
+    "companyTier": "B",
     "companyBadges": [
-      "YC S24"
+      "YC S24",
+      "Seed"
     ]
   },
   {
@@ -5383,35 +5492,6 @@
     "companyBadges": [
       "Public"
     ]
-  },
-  {
-    "dedupeKey": "job:5c66162e-13c0-4bd0-a158-e24b7a59bd87",
-    "companyId": "company_0b462db8cf4c99a8657e33282676a290",
-    "company": "Katalyst Space",
-    "companyDomain": "katalystspace.com",
-    "role": "Recent Graduate - Software Engineer I",
-    "applyUrl": "https://go.landed.jobs/ne7k3w1",
-    "location": "Broomfield, CO",
-    "locations": [
-      "Broomfield, CO"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "software_engineering",
-    "level": "entry",
-    "skills": [
-      "data structures",
-      "algorithms",
-      "computer architecture",
-      "operating systems",
-      "embedded or real-time software",
-      "networking",
-      "software design",
-      "controls/autonomy software"
-    ],
-    "posted": "2026-08-31T23:11:46.000Z",
-    "companyTier": "U",
-    "companyBadges": []
   },
   {
     "dedupeKey": "job:f4da9cba-cf3d-44ea-aab4-1b1a2a01bfe3",
@@ -6847,37 +6927,89 @@
     ]
   },
   {
-    "dedupeKey": "job:dbb90cb3-4a45-469e-ba78-68722a3869fe",
-    "companyId": "company_c0721ceb6b7960068f6d2a5d853812fe",
-    "company": "Genmo",
-    "companyDomain": "genmo.ai",
-    "role": "Research Engineer (New Grad)",
-    "applyUrl": "https://go.landed.jobs/o1ze9mw",
-    "location": "San Francisco, CA",
+    "dedupeKey": "job:ba69d68b-c993-4fd3-9a0d-fb900c2fe153",
+    "companyId": "company_4cc3ee9b0eb78bf003e0046ebdb3c451",
+    "company": "Celonis",
+    "companyDomain": "celonis.com",
+    "role": "Associate Deployment Engineer - Galaxy Graduate Program",
+    "applyUrl": "https://go.landed.jobs/mt4kiby",
+    "location": "Bengaluru, India",
     "locations": [
-      "San Francisco, CA"
+      "Bengaluru, India"
     ],
-    "remote": "",
-    "region": "us",
-    "family": "ai_machine_learning",
+    "remote": "hybrid",
+    "region": "india",
+    "family": "software_engineering",
     "level": "entry",
     "skills": [
       "Python",
-      "PyTorch/TensorFlow",
-      "deep learning frameworks",
-      "model training",
-      "Diffusion Models",
-      "GANs",
-      "Transformers",
-      "generative models",
-      "computer vision",
-      "ML infrastructure",
-      "deployment"
+      "SQL",
+      "Machine Learning",
+      "AI architectures"
     ],
-    "posted": "2026-07-30T17:13:11.638Z",
-    "companyTier": "C",
+    "posted": "2026-10-28T12:06:28.000Z",
+    "companyTier": "A",
     "companyBadges": [
-      "Series A"
+      "$13B valuation",
+      "Series D"
+    ]
+  },
+  {
+    "dedupeKey": "job:12792f20-c927-4834-bcb7-e78b8a7075e4",
+    "companyId": "company_1ffda32ad70e3cac6d6a04e2fbb00c06",
+    "company": "Stripe",
+    "companyDomain": "stripe.com",
+    "role": "Software Engineer, New Grad",
+    "applyUrl": "https://go.landed.jobs/tei4rlg",
+    "location": "Bengaluru, India",
+    "locations": [
+      "Bengaluru, India"
+    ],
+    "remote": "",
+    "region": "india",
+    "family": "software_engineering",
+    "level": "entry",
+    "skills": [
+      "Java",
+      "Ruby",
+      "JavaScript",
+      "Scala",
+      "Go"
+    ],
+    "posted": "2026-10-28T09:19:59.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "YC S09",
+      "$159B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:feb111c5-b88c-41e2-9a76-853653c5e60a",
+    "companyId": "company_df07f051cc68e0cd5c556fa3bd7c0716",
+    "company": "Sierra",
+    "companyDomain": "sierra.ai",
+    "role": "Software Engineer, Agent (New Grad 2027)",
+    "applyUrl": "https://go.landed.jobs/svijd0b",
+    "location": "London, UK",
+    "locations": [
+      "London, UK"
+    ],
+    "remote": "",
+    "region": "world",
+    "family": "software_engineering",
+    "level": "entry",
+    "skills": [
+      "building and scaling end-to-end production systems",
+      "Strong technical problem-solving skills",
+      "Excellent communication skills",
+      "building or deploying AI/LLM systems in production",
+      "React, TypeScript, and/or Go"
+    ],
+    "posted": "2026-10-27T15:57:36.993Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Hot 200",
+      "$15.8B valuation"
     ]
   },
   {
@@ -7046,6 +7178,35 @@
     "companyBadges": [
       "TrueUp Power 50",
       "$239B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:acabb36f-df10-4e6f-bdd2-4d3c11bf6721",
+    "companyId": "company_836ffd48c7b0e62aeefda44a2ffcbb1c",
+    "company": "Anduril Industries",
+    "companyDomain": "anduril.com",
+    "role": "2027 Early Career Software Development in Test",
+    "applyUrl": "https://go.landed.jobs/o6j051h",
+    "location": "Dublin, Ireland",
+    "locations": [
+      "Dublin, Ireland"
+    ],
+    "remote": "",
+    "region": "world",
+    "family": "software_engineering",
+    "level": "entry",
+    "skills": [
+      "Python",
+      "version control",
+      "linux",
+      "Git-Lab/hub",
+      "embedded hardware systems"
+    ],
+    "posted": "2026-10-21T14:19:51.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Hot 200",
+      "$61B valuation"
     ]
   },
   {
@@ -7449,7 +7610,7 @@
     "companyId": "company_aa24b6d1867f49396574d4b78fa1150f",
     "company": "Affirm",
     "companyDomain": "affirm.com",
-    "role": "Software Engineer, Early Career (London)",
+    "role": "Software Engineer I, Early Career (London)",
     "applyUrl": "https://go.landed.jobs/e8amhz4",
     "location": "🌐 Remote (UK)",
     "locations": [
@@ -7727,29 +7888,362 @@
     ]
   },
   {
-    "dedupeKey": "job:c68c2812-e5c2-4b1d-8065-687759d3e0d5",
-    "companyId": "company_28c64e61d2102ae1041e1ea59bbc507c",
-    "company": "Arista Networks",
-    "companyDomain": "arista.com",
-    "role": "Software Engineer Graduate 2026/2027",
-    "applyUrl": "https://go.landed.jobs/8jjf4a8",
-    "location": "Dublin, Ireland",
+    "dedupeKey": "job:1c4759f4-7d19-4eb0-b1b3-94493b8f168f",
+    "companyId": "company_3127c42388d221bbd354a70e607ef82d",
+    "company": "Stone",
+    "companyDomain": "stone.com.br",
+    "role": "[SI/LGPD] Security Engineer JR/PL",
+    "applyUrl": "https://go.landed.jobs/gjl3d3v",
+    "location": "🌐 Remote",
     "locations": [
-      "Dublin, Ireland"
+      "Remoto",
+      "RECRUTAMENTO INTERNO",
+      "STONE - TECH"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "security",
+    "level": "",
+    "skills": [],
+    "posted": "2026-10-29T19:03:50.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$2.8B valuation",
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:ce8ca2a7-329d-4a4b-9b2c-752a754eef63",
+    "companyId": "company_095b7a8cf024d1aee299916f0f823b4b",
+    "company": "KOHO",
+    "companyDomain": "koho.ca",
+    "role": "Junior Designer",
+    "applyUrl": "https://go.landed.jobs/gs0oi45",
+    "location": "🌐 Remote (Canada)",
+    "locations": [
+      "Canada"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "design_research",
+    "level": "entry",
+    "skills": [
+      "brand design",
+      "visual storytelling",
+      "Figma",
+      "Adobe Creative Suite",
+      "email building tools",
+      "AI Tools",
+      "motion principles and systems"
+    ],
+    "posted": "2026-10-29T16:48:22.203Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$950M valuation",
+      "Series D"
+    ]
+  },
+  {
+    "dedupeKey": "job:c27dc58a-4e0d-4fc5-85b0-0611702c1c22",
+    "companyId": "company_ad1cb9b68292aa2761b6906eb116cc44",
+    "company": "inDrive",
+    "companyDomain": "indrive.com",
+    "role": "Junior QA Engineer",
+    "applyUrl": "https://go.landed.jobs/q4vxd8x",
+    "location": "Egypt",
+    "locations": [
+      "Egypt"
+    ],
+    "remote": "hybrid",
+    "region": "world",
+    "family": "software_engineering",
+    "level": "entry",
+    "skills": [],
+    "posted": "2026-10-29T14:05:33.622Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$1.2B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:7c308018-f4ac-4bd4-bac0-50aaf3ba927c",
+    "companyId": "company_c9d0483b9a5d07c9989711251f186554",
+    "company": "Playtech",
+    "companyDomain": "playtech.com",
+    "role": "Junior Java Developer",
+    "applyUrl": "https://go.landed.jobs/ejybkzd",
+    "location": "Sofia, Bulgaria",
+    "locations": [
+      "Sofia, Bulgaria"
+    ],
+    "remote": "hybrid",
+    "region": "world",
+    "family": "software_engineering",
+    "level": "entry",
+    "skills": [
+      "Java",
+      "SQL and relational databases",
+      "Spring / Spring Boot",
+      "REST APIs",
+      "Docker",
+      "Git-based development workflows",
+      "AI-powered tools"
+    ],
+    "posted": "2026-10-29T10:49:50.792Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$1.5B valuation",
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:3bfe7870-0e96-4ccd-a412-e00dd8b58666",
+    "companyId": "company_bced043c394c9e8765d1a104e5c053de",
+    "company": "Accenture",
+    "companyDomain": "accenture.com",
+    "role": "Junior DevOps Engineer",
+    "applyUrl": "https://go.landed.jobs/3tpgsip",
+    "location": "Bratislava, Slovakia",
+    "locations": [
+      "Bratislava, Slovakia"
+    ],
+    "remote": "hybrid",
+    "region": "world",
+    "family": "software_engineering",
+    "level": "entry",
+    "skills": [
+      "Kubernetes",
+      "CI/CD pipelines",
+      "Infrastructure as Code",
+      "Python",
+      "PowerShell",
+      "Bash",
+      "Docker",
+      "Git"
+    ],
+    "posted": "2026-10-29T00:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$118B valuation",
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:4946cd1a-ac60-41e0-8fe2-2dd80b9488aa",
+    "companyId": "company_fadb933e10d3fc3dba65bdde4c675c1d",
+    "company": "Cisco",
+    "companyDomain": "cisco.com",
+    "role": "Junior C++ Software Engineer - Serbia - ETR",
+    "applyUrl": "https://go.landed.jobs/1c1edfd",
+    "location": "Belgrade, Serbia",
+    "locations": [
+      "Belgrade, Serbia"
+    ],
+    "remote": "hybrid",
+    "region": "world",
+    "family": "software_engineering",
+    "level": "entry",
+    "skills": [
+      "C++",
+      "Linux"
+    ],
+    "posted": "2026-10-29T00:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:569f2550-3caf-4aff-99d5-9e0f5123ffd9",
+    "companyId": "company_755773d1c1ac23854bff5862f53700f0",
+    "company": "Hootsuite",
+    "companyDomain": "hootsuite.com",
+    "role": "Junior Cyber Incident Response Analyst",
+    "applyUrl": "https://go.landed.jobs/n9iyhbm",
+    "location": "Vancouver, Canada +2",
+    "locations": [
+      "Vancouver, Canada",
+      "Toronto, Canada",
+      "Ottawa, Canada"
+    ],
+    "remote": "hybrid",
+    "region": "world",
+    "family": "security",
+    "level": "entry",
+    "skills": [
+      "security analyst, SOC analyst, incident response analyst, security engineer, or system administrator",
+      "cloud (preferably AWS) environment with CI/CD",
+      "Unix / Linux based operating systems",
+      "programming or scripting, including Bash, Python, YAML, and PowerShell",
+      "security products, including SIEM, next generation AV, Firewall technologies, Amazon Services"
+    ],
+    "posted": "2026-10-28T19:58:37.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$750M valuation",
+      "Late stage"
+    ]
+  },
+  {
+    "dedupeKey": "job:cf84ec3e-e284-41c5-9de8-aba7a312b039",
+    "companyId": "company_b91fa61d92ef692fdef4bcf64c9099b3",
+    "company": "Allianz",
+    "companyDomain": "allianz.com",
+    "role": "Junior IT Security Officer (w/m/d)",
+    "applyUrl": "https://go.landed.jobs/s4kztfp",
+    "location": "Austria",
+    "locations": [
+      "Austria"
+    ],
+    "remote": "",
+    "region": "world",
+    "family": "security",
+    "level": "entry",
+    "skills": [],
+    "posted": "2026-10-28T12:04:43.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:1fd31060-b0a6-451f-8d2c-7a1ef22bb045",
+    "companyId": "company_bced043c394c9e8765d1a104e5c053de",
+    "company": "Accenture",
+    "companyDomain": "accenture.com",
+    "role": "Junior Test Engineer (AI-Augmented)",
+    "applyUrl": "https://go.landed.jobs/tbuxoks",
+    "location": "Ebene, Mauritius",
+    "locations": [
+      "Ebene, Mauritius"
     ],
     "remote": "",
     "region": "world",
     "family": "software_engineering",
     "level": "entry",
     "skills": [
-      "Python",
-      "C++"
+      "Software Development Life Cycle (SDLC)",
+      "Software Testing Life Cycle (STLC)"
     ],
-    "posted": "2026-09-29T19:10:44.759Z",
-    "companyTier": "A",
+    "posted": "2026-10-28T00:00:00.000Z",
+    "companyTier": "B",
     "companyBadges": [
-      "TrueUp Power 50",
-      "$227B valuation"
+      "$118B valuation",
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:31d59cd6-9af2-462e-b806-ecfb8dc4c1fa",
+    "companyId": "company_bced043c394c9e8765d1a104e5c053de",
+    "company": "Accenture",
+    "companyDomain": "accenture.com",
+    "role": "NATURAL Application Junior Analyst Programmer",
+    "applyUrl": "https://go.landed.jobs/9dkpxiq",
+    "location": "Midrand, South Africa",
+    "locations": [
+      "Midrand, South Africa"
+    ],
+    "remote": "hybrid",
+    "region": "world",
+    "family": "software_engineering",
+    "level": "entry",
+    "skills": [
+      "Natural"
+    ],
+    "posted": "2026-10-28T00:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$118B valuation",
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:65daca6d-3b45-4dea-8af8-c383a2a96141",
+    "companyId": "company_bced043c394c9e8765d1a104e5c053de",
+    "company": "Accenture",
+    "companyDomain": "accenture.com",
+    "role": "Junior/Medior Azure Cloud Engineer",
+    "applyUrl": "https://go.landed.jobs/t8fvbfm",
+    "location": "Amsterdam, Netherlands",
+    "locations": [
+      "Amsterdam, Netherlands"
+    ],
+    "remote": "hybrid",
+    "region": "world",
+    "family": "software_engineering",
+    "level": "mid",
+    "skills": [
+      "Microsoft Azure Administration",
+      "Cloud infrastructure",
+      "Microsoft Azure DevOps",
+      "Design and building new or change solutions",
+      "Windows",
+      "Linux",
+      "Ansible"
+    ],
+    "posted": "2026-10-28T00:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$118B valuation",
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:c6431b65-a36c-4462-8b5c-aa7ffb223a76",
+    "companyId": "company_340f419bc9f7f27274f4c7007ed09c0d",
+    "company": "Thales",
+    "companyDomain": "thalesgroup.com",
+    "role": "Junior Software Engineer(AIR Lab)",
+    "applyUrl": "https://go.landed.jobs/ygfl3rw",
+    "location": "Singapore",
+    "locations": [
+      "Singapore"
+    ],
+    "remote": "hybrid",
+    "region": "world",
+    "family": "software_engineering",
+    "level": "entry",
+    "skills": [
+      "Java, Kotlin, C++, Rust, Go",
+      "Kaniko, Docker, Virtual Machine",
+      "Azure Cloud, AWS, GCP",
+      "Kubernetes",
+      "agentic development",
+      "Delta Lake, Databricks, Azure Data Lake"
+    ],
+    "posted": "2026-10-28T00:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:dc006a05-0934-40f1-95af-a55ca5143838",
+    "companyId": "company_da51505795a3f650af3f7423264a3526",
+    "company": "Motorola Solutions",
+    "companyDomain": "motorolasolutions.com",
+    "role": "Junior Software Engineer (Java/DevOps)",
+    "applyUrl": "https://go.landed.jobs/6gufuik",
+    "location": "Kraków, Poland",
+    "locations": [
+      "Kraków, Poland"
+    ],
+    "remote": "",
+    "region": "world",
+    "family": "software_engineering",
+    "level": "",
+    "skills": [
+      "modern DevOps tooling (including CI/CD pipelines)",
+      "Java",
+      "Cloud experience with AWS or Azure or private Cloud",
+      "Automated testing experience",
+      "Observability and monitoring experience",
+      "RabbitMQ/AMQ, Kafka or similar"
+    ],
+    "posted": "2026-10-28T00:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "Public"
     ]
   },
   {
@@ -7881,29 +8375,6 @@
     ]
   },
   {
-    "dedupeKey": "job:a8af7d4c-6d77-4cc5-84fa-67b3062eb75f",
-    "companyId": "company_bced043c394c9e8765d1a104e5c053de",
-    "company": "Accenture",
-    "companyDomain": "accenture.com",
-    "role": "Full-Stack Developer – Data Platform Junior",
-    "applyUrl": "https://go.landed.jobs/d4j5zt2",
-    "location": "Assago, Italy",
-    "locations": [
-      "Assago, Italy"
-    ],
-    "remote": "hybrid",
-    "region": "world",
-    "family": "software_engineering",
-    "level": "entry",
-    "skills": [],
-    "posted": "2026-10-27T00:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$118B valuation",
-      "Public"
-    ]
-  },
-  {
     "dedupeKey": "job:302b0873-02b2-41dd-9bc7-37b7c3108edf",
     "companyId": "company_597f690afabbcb94be5e3e85ec62b1bd",
     "company": "Gen",
@@ -7951,31 +8422,6 @@
     ]
   },
   {
-    "dedupeKey": "job:667c8a89-5adc-4cd3-b537-52018100e7bd",
-    "companyId": "company_bced043c394c9e8765d1a104e5c053de",
-    "company": "Accenture",
-    "companyDomain": "accenture.com",
-    "role": "Certificación de Accesos - Junior",
-    "applyUrl": "https://go.landed.jobs/x5w4m3u",
-    "location": "Buenos Aires, Argentina",
-    "locations": [
-      "Buenos Aires, Argentina"
-    ],
-    "remote": "hybrid",
-    "region": "world",
-    "family": "security",
-    "level": "entry",
-    "skills": [
-      "Certificate Lifecycle Management"
-    ],
-    "posted": "2026-10-26T00:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$118B valuation",
-      "Public"
-    ]
-  },
-  {
     "dedupeKey": "job:7e96712c-1bc8-47d5-98f7-21e2c563459d",
     "companyId": "company_d4ed29c11d3e1867937f29b4a7b35de5",
     "company": "RELX",
@@ -8012,34 +8458,31 @@
     ]
   },
   {
-    "dedupeKey": "job:e9fb4759-774d-427d-8461-a9c91a80fe52",
-    "companyId": "company_bced043c394c9e8765d1a104e5c053de",
-    "company": "Accenture",
-    "companyDomain": "accenture.com",
-    "role": "Junior Databricks Engineer (Azure / AWS / GCP)",
-    "applyUrl": "https://go.landed.jobs/l8yp7oy",
-    "location": "Prague, Czechia",
+    "dedupeKey": "job:f49e7cc6-5e65-4136-88f2-5c9a398f863f",
+    "companyId": "company_da51505795a3f650af3f7423264a3526",
+    "company": "Motorola Solutions",
+    "companyDomain": "motorolasolutions.com",
+    "role": "Jr. Software Engineer - Java, Angular, JavaScript",
+    "applyUrl": "https://go.landed.jobs/k0awvgw",
+    "location": "Gatineau, Canada +2",
     "locations": [
-      "Prague, Czechia"
+      "Gatineau, Canada",
+      "Québec, Canada",
+      "Ontario, CA"
     ],
     "remote": "",
     "region": "world",
     "family": "software_engineering",
     "level": "entry",
     "skills": [
-      "Databricks",
-      "Python",
-      "SQL",
-      "Delta Lake",
-      "Terraform",
-      "Bicep",
-      "Azure DevOps",
-      "GitHub Actions"
+      "JAVA",
+      "Angular",
+      "Javascript",
+      "Git"
     ],
     "posted": "2026-10-26T00:00:00.000Z",
     "companyTier": "B",
     "companyBadges": [
-      "$118B valuation",
       "Public"
     ]
   },
@@ -8048,7 +8491,7 @@
     "companyId": "company_4ccf2fd66701575f6f9741a05f00fc5a",
     "company": "John Deere",
     "companyDomain": "deere.com",
-    "role": "JR Full Stack Software Engineer - Indaiatuba/SP",
+    "role": "JR Full Stack Software Engineer - Vaga Afirmativa PcD - Indaiatuba/SP",
     "applyUrl": "https://go.landed.jobs/fqau0zb",
     "location": "Indaiatuba, Brazil",
     "locations": [
@@ -8215,423 +8658,6 @@
     "companyTier": "B",
     "companyBadges": [
       "$84.8B valuation",
-      "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:7c87b8b5-81a0-4d43-932b-64224208ea99",
-    "companyId": "company_bced043c394c9e8765d1a104e5c053de",
-    "company": "Accenture",
-    "companyDomain": "accenture.com",
-    "role": "Junior Applied AI Engineer (all genders)",
-    "applyUrl": "https://go.landed.jobs/1pxkle8",
-    "location": "Kronberg, Germany",
-    "locations": [
-      "Kronberg, Germany"
-    ],
-    "remote": "hybrid",
-    "region": "world",
-    "family": "ai_machine_learning",
-    "level": "entry",
-    "skills": [],
-    "posted": "2026-10-22T00:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$118B valuation",
-      "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:887323b7-9ea9-4868-b176-3423481b3522",
-    "companyId": "company_0547c67f4ffc42d3578fe9aaa2c51f06",
-    "company": "Chowdeck",
-    "companyDomain": "chowdeck.com",
-    "role": "Junior Product Manager",
-    "applyUrl": "https://go.landed.jobs/g6wuetz",
-    "location": "Lagos, Nigeria",
-    "locations": [
-      "Lagos, Nigeria"
-    ],
-    "remote": "hybrid",
-    "region": "world",
-    "family": "product_management",
-    "level": "entry",
-    "skills": [
-      "product management",
-      "structured problem-solving",
-      "cross-functional delivery"
-    ],
-    "posted": "2026-10-22T00:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "Series A"
-    ]
-  },
-  {
-    "dedupeKey": "job:9ee5ca6a-187f-4dcf-80aa-ad142602bb16",
-    "companyId": "company_992d1a79175ca5982791851856f0bdb5",
-    "company": "DXC Technology",
-    "companyDomain": "dxc.com",
-    "role": "Junior MS SQL Database Administrator",
-    "applyUrl": "https://go.landed.jobs/wicfxei",
-    "location": "Sofia, Bulgaria",
-    "locations": [
-      "Sofia, Bulgaria"
-    ],
-    "remote": "",
-    "region": "world",
-    "family": "data_engineering",
-    "level": "entry",
-    "skills": [
-      "MSSQL"
-    ],
-    "posted": "2026-10-22T00:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$1.8B valuation",
-      "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:1f31200b-1b76-4d14-8ea4-367aeb0ea526",
-    "companyId": "company_79772e7284df7d6b9d5e2ca568e7674a",
-    "company": "Delivery Hero",
-    "companyDomain": "deliveryhero.com",
-    "role": "Junior Fullstack Software Engineer",
-    "applyUrl": "https://go.landed.jobs/s31prix",
-    "location": "Singapore",
-    "locations": [
-      "Singapore"
-    ],
-    "remote": "hybrid",
-    "region": "world",
-    "family": "software_engineering",
-    "level": "entry",
-    "skills": [
-      "Golang",
-      "React"
-    ],
-    "posted": "2026-10-21T03:25:36.226Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$13.1B valuation",
-      "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:501a1604-e33a-448d-af13-752df36c6dd8",
-    "companyId": "company_96984f4284b918de31bf8e0fff6fabad",
-    "company": "Philips",
-    "companyDomain": "philips.com",
-    "role": "Business Analytics Graduate – Image Guided Therapy (Emiratization)",
-    "applyUrl": "https://go.landed.jobs/j03h4lr",
-    "location": "Dubai, United Arab Emirates",
-    "locations": [
-      "Dubai, United Arab Emirates"
-    ],
-    "remote": "",
-    "region": "world",
-    "family": "data_science_analytics",
-    "level": "entry",
-    "skills": [
-      "Excel",
-      "PowerPoint"
-    ],
-    "posted": "2026-10-21T00:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:23f92c07-d29e-4dfe-bfea-adeb176f0098",
-    "companyId": "company_e7be5e4ede08c17d09cd56d03799f8bf",
-    "company": "Wise",
-    "companyDomain": "wise.com",
-    "role": "Graduate UX Researcher",
-    "applyUrl": "https://go.landed.jobs/2whyyga",
-    "location": "London, UK",
-    "locations": [
-      "London, UK"
-    ],
-    "remote": "",
-    "region": "world",
-    "family": "design_research",
-    "level": "entry",
-    "skills": [
-      "quantitative and qualitative research",
-      "design responsive web experiences",
-      "creating production ready deliverables"
-    ],
-    "posted": "2026-10-20T13:10:32.972Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$12.3B valuation",
-      "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:79cbf14a-fa6c-4495-a2e3-a274df75a2bf",
-    "companyId": "company_992d1a79175ca5982791851856f0bdb5",
-    "company": "DXC Technology",
-    "companyDomain": "dxc.com",
-    "role": "Graduate Academy – Full Stack & AI Assisted Development",
-    "applyUrl": "https://go.landed.jobs/lyjf5va",
-    "location": "Italy",
-    "locations": [
-      "Italy"
-    ],
-    "remote": "hybrid",
-    "region": "world",
-    "family": "software_engineering",
-    "level": "entry",
-    "skills": [
-      "Java",
-      "React",
-      "REST APIs",
-      "TypeScript",
-      "JavaScript",
-      "SQL",
-      "Microservices"
-    ],
-    "posted": "2026-10-20T00:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$1.8B valuation",
-      "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:9e41cb0d-cebb-4741-a54d-bb417c72cc2a",
-    "companyId": "company_992d1a79175ca5982791851856f0bdb5",
-    "company": "DXC Technology",
-    "companyDomain": "dxc.com",
-    "role": "Graduate Academy – Full Stack & AI Assisted Development",
-    "applyUrl": "https://go.landed.jobs/pidlsvb",
-    "location": "Rome, Italy",
-    "locations": [
-      "Rome, Italy"
-    ],
-    "remote": "hybrid",
-    "region": "world",
-    "family": "software_engineering",
-    "level": "entry",
-    "skills": [
-      "Java",
-      "React",
-      "REST APIs",
-      "TypeScript",
-      "JavaScript",
-      "SQL",
-      "Microservices"
-    ],
-    "posted": "2026-10-20T00:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$1.8B valuation",
-      "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:c8a9d419-234b-4100-8be1-a3e1d93e0b3c",
-    "companyId": "company_e7be5e4ede08c17d09cd56d03799f8bf",
-    "company": "Wise",
-    "companyDomain": "wise.com",
-    "role": "Graduate Product Analyst",
-    "applyUrl": "https://go.landed.jobs/8bgecce",
-    "location": "London, UK",
-    "locations": [
-      "London, UK"
-    ],
-    "remote": "hybrid",
-    "region": "world",
-    "family": "data_science_analytics",
-    "level": "entry",
-    "skills": [
-      "Python",
-      "SQL"
-    ],
-    "posted": "2026-10-19T15:12:37.248Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$12.3B valuation",
-      "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:2b99bc12-278e-4538-9612-5fa3feb77922",
-    "companyId": "company_e10f5af7f5cb0c43a19eedea83dbf62e",
-    "company": "Arcadis",
-    "companyDomain": "arcadis.com",
-    "role": "Graduate Digital Delivery Engineer",
-    "applyUrl": "https://go.landed.jobs/hdnj63g",
-    "location": "Bristol, UK",
-    "locations": [
-      "Bristol, UK"
-    ],
-    "remote": "",
-    "region": "world",
-    "family": "software_engineering",
-    "level": "entry",
-    "skills": [
-      "Python",
-      "digital engineering and automation techniques"
-    ],
-    "posted": "2026-10-19T00:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:56304e8e-a38d-4057-aa67-0fa46cc1c530",
-    "companyId": "company_46a78ca98e2ed8254594b259ea0fe724",
-    "company": "KnowBe4",
-    "companyDomain": "knowbe4.com",
-    "role": "Graduate Cybersecurity Threat Researcher (Position located in Cheltenham, United Kingdom)",
-    "applyUrl": "https://go.landed.jobs/z09vfe5",
-    "location": "Cheltenham, UK",
-    "locations": [
-      "Cheltenham, UK"
-    ],
-    "remote": "",
-    "region": "world",
-    "family": "security",
-    "level": "entry",
-    "skills": [
-      "IOCs",
-      "threat analysis",
-      "scripting"
-    ],
-    "posted": "2026-10-16T10:33:24.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "TrueUp Security 50",
-      "$4.6B valuation"
-    ]
-  },
-  {
-    "dedupeKey": "job:6717d5b3-b068-45be-b7cc-80d19e5e83ad",
-    "companyId": "company_5076e664c19b2232f256e2f8ec924770",
-    "company": "Alarm.com",
-    "companyDomain": "alarm.com",
-    "role": "Junior Software Engineer",
-    "applyUrl": "https://go.landed.jobs/sv0qirb",
-    "location": "Kraków, Poland",
-    "locations": [
-      "Kraków, Poland"
-    ],
-    "remote": "",
-    "region": "world",
-    "family": "software_engineering",
-    "level": "entry",
-    "skills": [
-      "databases",
-      "message queues",
-      "caching",
-      "data processing"
-    ],
-    "posted": "2026-10-16T09:38:34.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$2.7B valuation",
-      "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:5c9bddeb-2f3e-41a1-9d11-db62e8a5f2ca",
-    "companyId": "company_c9d0483b9a5d07c9989711251f186554",
-    "company": "Playtech",
-    "companyDomain": "playtech.com",
-    "role": "Junior Network Operations Engineer",
-    "applyUrl": "https://go.landed.jobs/vdif0n4",
-    "location": "Tallinn, Estonia · Tartu, Estonia",
-    "locations": [
-      "Tallinn, Estonia",
-      "Tartu, Estonia"
-    ],
-    "remote": "hybrid",
-    "region": "world",
-    "family": "software_engineering",
-    "level": "entry",
-    "skills": [
-      "Cisco",
-      "Juniper",
-      "Arista",
-      "Check Point",
-      "Palo Alto",
-      "Python",
-      "Ansible",
-      "PowerShell",
-      "Bash"
-    ],
-    "posted": "2026-10-15T08:24:28.497Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$1.5B valuation",
-      "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:02ddcb3d-013e-4c52-b0ac-2eb5dc12f0ff",
-    "companyId": "company_fadb933e10d3fc3dba65bdde4c675c1d",
-    "company": "Cisco",
-    "companyDomain": "cisco.com",
-    "role": "Junior Software Engineer (Go/C++), Security Foundations Engineering - Splunk",
-    "applyUrl": "https://go.landed.jobs/wgvx89q",
-    "location": "Kraków, Poland",
-    "locations": [
-      "Kraków, Poland"
-    ],
-    "remote": "",
-    "region": "world",
-    "family": "software_engineering",
-    "level": "entry",
-    "skills": [
-      "Go",
-      "C++",
-      "Terraform",
-      "CI/CD pipeline management"
-    ],
-    "posted": "2026-10-15T00:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:562009b2-0368-45f3-bda5-144177c93228",
-    "companyId": "company_bced043c394c9e8765d1a104e5c053de",
-    "company": "Accenture",
-    "companyDomain": "accenture.com",
-    "role": "Data Science & Machine Learning Engineering Analyst - Junior Consultant",
-    "applyUrl": "https://go.landed.jobs/fxp8eld",
-    "location": "Amsterdam, Netherlands",
-    "locations": [
-      "Amsterdam, Netherlands"
-    ],
-    "remote": "hybrid",
-    "region": "world",
-    "family": "data_science_analytics",
-    "level": "entry",
-    "skills": [
-      "Machine Learning",
-      "Deep Learning",
-      "Generative and Agentic AI",
-      "SQL",
-      "Python",
-      "R",
-      "Cloud computing (AWS, Azure or GCP)",
-      "Langchain",
-      "LangGraph",
-      "PyTorch",
-      "Power BI",
-      "Tableau"
-    ],
-    "posted": "2026-10-15T00:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$118B valuation",
       "Public"
     ]
   }
