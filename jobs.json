@@ -2165,41 +2165,6 @@
     ]
   },
   {
-    "dedupeKey": "job:0b9ae18d-a525-434c-a90d-7f297322794f",
-    "companyId": "company_764f15d7fa929f1c55f90cb84184ba51",
-    "company": "Steel Dynamics, Inc",
-    "companyDomain": "steeldynamics.com",
-    "role": "Junior Network Administrator",
-    "applyUrl": "https://go.landed.jobs/10zy1uj",
-    "location": "Columbus, MS",
-    "locations": [
-      "Columbus, MS"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "software_engineering",
-    "level": "entry",
-    "skills": [
-      "TCP/IP",
-      "IPv4 addressing",
-      "subnetting",
-      "VLANs",
-      "Ethernet switching",
-      "ping",
-      "traceroute",
-      "ARP",
-      "ipconfig/ifconfig",
-      "DNS lookups",
-      "Windows",
-      "Linux command-line"
-    ],
-    "posted": "2026-09-30T04:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "Public"
-    ]
-  },
-  {
     "dedupeKey": "job:98af10fa-8834-4938-8aef-60de3e8c1c0b",
     "companyId": "company_3d6784304f11c79dc8d963e0cfb84db4",
     "company": "Northwood Space",
@@ -3392,6 +3357,41 @@
     "posted": "2026-09-30T06:54:10.146Z",
     "companyTier": "U",
     "companyBadges": []
+  },
+  {
+    "dedupeKey": "job:0b9ae18d-a525-434c-a90d-7f297322794f",
+    "companyId": "company_764f15d7fa929f1c55f90cb84184ba51",
+    "company": "Steel Dynamics, Inc",
+    "companyDomain": "steeldynamics.com",
+    "role": "Junior Network Administrator",
+    "applyUrl": "https://go.landed.jobs/10zy1uj",
+    "location": "Columbus, MS",
+    "locations": [
+      "Columbus, MS"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "software_engineering",
+    "level": "entry",
+    "skills": [
+      "TCP/IP",
+      "IPv4 addressing",
+      "subnetting",
+      "VLANs",
+      "Ethernet switching",
+      "ping",
+      "traceroute",
+      "ARP",
+      "ipconfig/ifconfig",
+      "DNS lookups",
+      "Windows",
+      "Linux command-line"
+    ],
+    "posted": "2026-09-30T04:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "Public"
+    ]
   },
   {
     "dedupeKey": "job:1158a5c9-df17-40aa-8426-ed95a9c3a67a",
@@ -7997,6 +7997,31 @@
     ]
   },
   {
+    "dedupeKey": "job:15a8543b-2e91-4418-ad0c-68e3807c10df",
+    "companyId": "company_da51505795a3f650af3f7423264a3526",
+    "company": "Motorola Solutions",
+    "companyDomain": "motorolasolutions.com",
+    "role": "Junior Java DevOps Engineer",
+    "applyUrl": "https://go.landed.jobs/mhb3kvu",
+    "location": "Kraków, Poland",
+    "locations": [
+      "Kraków, Poland"
+    ],
+    "remote": "",
+    "region": "world",
+    "family": "software_engineering",
+    "level": "entry",
+    "skills": [
+      "Java development",
+      "Docker"
+    ],
+    "posted": "2026-10-29T00:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "Public"
+    ]
+  },
+  {
     "dedupeKey": "job:3bfe7870-0e96-4ccd-a412-e00dd8b58666",
     "companyId": "company_bced043c394c9e8765d1a104e5c053de",
     "company": "Accenture",
@@ -8626,38 +8651,6 @@
     "companyTier": "B",
     "companyBadges": [
       "$2.8B valuation",
-      "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:9661eb6a-ac28-4de6-bb48-d7afe94445d8",
-    "companyId": "company_f799333c6400d17620e1ff42634897b4",
-    "company": "NetEase",
-    "companyDomain": "netease-na.com",
-    "role": "SG Campus Recruitment - Game Programmer",
-    "applyUrl": "https://go.landed.jobs/3bqrns0",
-    "location": "Singapore-Guoco Midtown",
-    "locations": [
-      "Singapore-Guoco Midtown"
-    ],
-    "remote": "",
-    "region": "world",
-    "family": "software_engineering",
-    "level": "",
-    "skills": [
-      "C",
-      "C++",
-      "Python",
-      "data structures",
-      "algorithms",
-      "operating systems",
-      "AI tools",
-      "game development frameworks or engines"
-    ],
-    "posted": "2026-10-22T06:17:34.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$84.8B valuation",
       "Public"
     ]
   }
