@@ -1153,28 +1153,6 @@
     ]
   },
   {
-    "dedupeKey": "job:1316766c-9f69-4244-b00a-552483bfca85",
-    "companyId": "company_39f5584208c174b16a349b5e0d753a06",
-    "company": "Agave",
-    "companyDomain": "useagave.com",
-    "role": "Full-Stack Software Engineer (New Grad)",
-    "applyUrl": "https://go.landed.jobs/nrwypas",
-    "location": "San Francisco, CA",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "software_engineering",
-    "level": "entry",
-    "skills": [],
-    "posted": "2026-10-27T17:34:29.492Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "YC W22"
-    ]
-  },
-  {
     "dedupeKey": "job:ed1b8ab9-729f-4e02-901c-a0be5626f650",
     "companyId": "company_01ba7273f38a08bb43ee9f6c01baa04a",
     "company": "XPENG",
@@ -2244,6 +2222,28 @@
     "posted": "2026-10-27T20:33:21.932Z",
     "companyTier": "U",
     "companyBadges": []
+  },
+  {
+    "dedupeKey": "job:1316766c-9f69-4244-b00a-552483bfca85",
+    "companyId": "company_39f5584208c174b16a349b5e0d753a06",
+    "company": "Agave",
+    "companyDomain": "useagave.com",
+    "role": "Full-Stack Software Engineer (New Grad)",
+    "applyUrl": "https://go.landed.jobs/nrwypas",
+    "location": "San Francisco, CA",
+    "locations": [
+      "San Francisco, CA"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "software_engineering",
+    "level": "entry",
+    "skills": [],
+    "posted": "2026-10-27T17:34:29.492Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "YC W22"
+    ]
   },
   {
     "dedupeKey": "job:db555e0a-6f8d-4bf2-9a7c-da29a9bf3539",
@@ -3735,6 +3735,34 @@
     "companyTier": "B",
     "companyBadges": [
       "$3B valuation",
+      "Public"
+    ]
+  },
+  {
+    "dedupeKey": "job:958e72c9-e76d-48ac-92cb-e033dafb0dc8",
+    "companyId": "company_ba68694ed4a78245f0c1e872d5b44516",
+    "company": "Broadridge",
+    "companyDomain": "broadridge.com",
+    "role": "Junior Database Administrator",
+    "applyUrl": "https://go.landed.jobs/2lxkxil",
+    "location": "Newark, NJ",
+    "locations": [
+      "Newark, NJ"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "software_engineering",
+    "level": "entry",
+    "skills": [
+      "database security",
+      "database monitoring",
+      "troubleshooting",
+      "database maintenance and enhancements"
+    ],
+    "posted": "2026-10-02T00:00:00.000Z",
+    "companyTier": "B",
+    "companyBadges": [
+      "$17.8B valuation",
       "Public"
     ]
   },
@@ -6350,35 +6378,6 @@
     "companyBadges": [
       "YC S09",
       "$159B valuation"
-    ]
-  },
-  {
-    "dedupeKey": "job:feb111c5-b88c-41e2-9a76-853653c5e60a",
-    "companyId": "company_df07f051cc68e0cd5c556fa3bd7c0716",
-    "company": "Sierra",
-    "companyDomain": "sierra.ai",
-    "role": "Software Engineer, Agent (New Grad 2027)",
-    "applyUrl": "https://go.landed.jobs/svijd0b",
-    "location": "London, UK",
-    "locations": [
-      "London, UK"
-    ],
-    "remote": "",
-    "region": "world",
-    "family": "software_engineering",
-    "level": "entry",
-    "skills": [
-      "building and scaling end-to-end production systems",
-      "Strong technical problem-solving skills",
-      "Excellent communication skills",
-      "building or deploying AI/LLM systems in production",
-      "React, TypeScript, and/or Go"
-    ],
-    "posted": "2026-10-27T15:57:36.993Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Hot 200",
-      "$15.8B valuation"
     ]
   },
   {
